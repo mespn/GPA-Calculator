@@ -1,0 +1,12 @@
+Constructor vacío:
+1. Leer el .txt con todos los datos
+	a. Linea 1 -> MAX_GRADE
+	b. Linea 2 -> usesLetter
+	c. Linea 3 -> usesGradePoint
+	
+2. Asignar notas vacías
+
+Constructor con float:
+1. Iniciar el constructor vacío
+2. percentage = float
+3. Usar 

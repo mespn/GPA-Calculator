@@ -1,0 +1,33 @@
+[Max Grade]
+
+[(bool)useLetterGrade]
+
+[(bool)useGradePoint]
+
+[letterList] \t [gradeEquiv] \t [gradePointEquiv]
+			   .	     
+			   .       
+			   .       
+[lastLetter] \t [lastGrade]  \t [lastGradePoint]
+[emptyGrade] \t     -1       \t 	   -1       
+[end of file]
+
+================================================
+		   Aclaraciones
+================================================
+
+Max Grade es un número
+
+useLetterGrade y useGradePoint son verdadero/falso
+	Representados por 1 o 0
+
+Empty grade será ' ' por defecto
+Los [-1] en el ejemplo de tabla son números
+
+El [end of line] será el verdadero fin del archivo
+
+ *En la tabla ejemplo hay espacios entre los datos y
+  el caracter \t. En las oficiales los datos solo 
+  serán separados por caracteres \t. 
+
+**Será un archivo binario. El testeo se hará aparte.

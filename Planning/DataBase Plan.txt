@@ -1,0 +1,11 @@
+ -------------------------------------------------------------
+| Id  |  Assignment |   Term   |   Year  | Grade |  Parent    |
+ -------------------------------------------------------------
+|  1  |  Nombre 1   |  Summmer |   2021  |  95%  |    Self    |
+|  2  |  Nombre 2   |  Fall    |   2021  |  95%  |    None    |
+|  3  |  Nombre 3   |  Winter  |   2022  |  95%  |    None    |
+|  4  |  Nombre 4   |  Summmer |   2022  |  95%  |    None    |
+|  5  |  Nombre 5   |  Fall    |   2022  |  95%  |    None    |
+|  6  |  Nombre 6   |  Winter  |   2023  |  95%  |    None    |
+|  7  |  Nombre 7   |  Summmer |   2023  |  95%  |    None    |
+|  8  | SubAssignm1 |  Summmer |   2021  |  95%  |  Nombre 1  |

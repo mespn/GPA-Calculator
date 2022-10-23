@@ -1,0 +1,119 @@
+﻿  Assessment.cpp
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(28,7): error C2535: 'Grade::Grade(float)': función miembro ya definida o declarada
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(27): message : vea la declaración de 'Grade::Grade'
+  CalculatorTests.cpp
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(28,7): error C2535: 'Grade::Grade(float)': función miembro ya definida o declarada
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(27): message : vea la declaración de 'Grade::Grade'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(20,12): error C2065: 'Course': identificador no declarado
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(20,19): error C2059: error de sintaxis: '>'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(33,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(33,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(33,41): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(34,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(34,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(34,33): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\CalculatorTests.h(49,2): warning C4091: 'static ': se ha omitido a la izquierda de 'CalculatorTests' cuando no hay ninguna variable declarada
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\CalculatorTests.h(19,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Course.cpp
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(28,7): error C2535: 'Grade::Grade(float)': función miembro ya definida o declarada
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(27): message : vea la declaración de 'Grade::Grade'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(20,12): error C2065: 'Course': identificador no declarado
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(20,19): error C2059: error de sintaxis: '>'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(33,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(33,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(33,41): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(34,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(34,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(34,33): error C2238: símbolos (token) inesperados delante de ';'
+  EvaluationDivision.cpp
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(28,7): error C2535: 'Grade::Grade(float)': función miembro ya definida o declarada
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(27): message : vea la declaración de 'Grade::Grade'
+  Grade.cpp
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(28,7): error C2535: 'Grade::Grade(float)': función miembro ya definida o declarada
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(27): message : vea la declaración de 'Grade::Grade'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.cpp(3,16): error C2789: 'Grade::MAX_GRADE': se debe inicializar un objeto de tipo
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(18): message : vea la declaración de 'Grade::MAX_GRADE'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.cpp(9,23): error C2789: 'Grade::MAX_GRADE': se debe inicializar un objeto de tipo
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(18): message : vea la declaración de 'Grade::MAX_GRADE'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.cpp(11,41): warning C4244: 'argumento': conversión de 'float' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.cpp(14,23): error C2084: la función 'Grade::Grade(float)' ya tiene un cuerpo
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.cpp(9): message : vea la definición anterior de '{ctor}'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.cpp(14,23): error C2789: 'Grade::MAX_GRADE': se debe inicializar un objeto de tipo
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(18): message : vea la declaración de 'Grade::MAX_GRADE'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.cpp(15,22): warning C4244: 'argumento': conversión de 'float' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.cpp(28,24): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.cpp(31,24): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.cpp(37,24): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.cpp(40,25): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.cpp(43,24): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.cpp(46,25): warning C4305: '=': truncamiento de 'double' a 'float'
+  GradeConvertor.cpp
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(23,29): warning C4244: 'argumento': conversión de 'int' a 'const _Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(24,33): warning C4244: 'argumento': conversión de 'int' a '_Ty'; posible pérdida de datos
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(90,20): warning C4018: '<': no coinciden signed/unsigned
+  MultiAssessment.cpp
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(28,7): error C2535: 'Grade::Grade(float)': función miembro ya definida o declarada
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(27): message : vea la declaración de 'Grade::Grade'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\MultiAssessment.cpp(22,36): error C2600: 'MultiAssessment::~MultiAssessment': no se puede definir una función miembro especial generada por el compilador (se debe declarar primero en la clase)
+  MyForm.cpp
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(28,7): error C2535: 'Grade::Grade(float)': función miembro ya definida o declarada
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(27): message : vea la declaración de 'Grade::Grade'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(20,12): error C2065: 'Course': identificador no declarado
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(20,19): error C2059: error de sintaxis: '>'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(33,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(33,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(33,41): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(34,11): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(34,11): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Term.h(34,33): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\CalculatorTests.h(49,2): warning C4091: 'static ': se ha omitido a la izquierda de 'CalculatorTests' cuando no hay ninguna variable declarada
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\CalculatorTests.h(19,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  Term.cpp
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(28,7): error C2535: 'Grade::Grade(float)': función miembro ya definida o declarada
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(27): message : vea la declaración de 'Grade::Grade'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Year.h(20,12): error C2065: 'Term': identificador no declarado
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Year.h(20,17): error C2059: error de sintaxis: '>'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Year.h(29,18): error C2061: error de sintaxis: identificador 'Term'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Year.h(31,21): error C2061: error de sintaxis: identificador 'Term'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Year.h(35,9): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Year.h(35,9): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Year.h(35,28): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Year.h(36,9): error C2143: error de sintaxis: falta ';' delante de '*'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Year.h(36,9): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Year.h(36,29): error C2238: símbolos (token) inesperados delante de ';'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Year.h(37,12): error C2065: 'Term': identificador no declarado
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Year.h(37,17): error C2059: error de sintaxis: '>'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Course.h(43,36): error C2061: error de sintaxis: identificador 'Term'
+  Year.cpp
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(28,7): error C2535: 'Grade::Grade(float)': función miembro ya definida o declarada
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Grade.h(27): message : vea la declaración de 'Grade::Grade'
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\Course.h(43,24): error C2061: error de sintaxis: identificador 'Year'
+  Generando código...
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(65): error C4716: 'GradeConvertor::absoluteToLetter': debe devolver un valor
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(66): error C4716: 'GradeConvertor::percentageToLetter': debe devolver un valor
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(67): error C4716: 'GradeConvertor::gradePointToLetter': debe devolver un valor
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(70): error C4716: 'GradeConvertor::percentageToAbsolute': debe devolver un valor
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(71): error C4716: 'GradeConvertor::gradePointToAbsolute': debe devolver un valor
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(74): error C4716: 'GradeConvertor::absoluteToPercentage': debe devolver un valor
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(75): error C4716: 'GradeConvertor::gradePointToPercentage': debe devolver un valor
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(78): error C4716: 'GradeConvertor::absoluteToGradePoint': debe devolver un valor
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(79): error C4716: 'GradeConvertor::percentageToGradePoint': debe devolver un valor
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(69): error C4716: 'GradeConvertor::letterToAbsolute': debe devolver un valor
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(73): error C4716: 'GradeConvertor::letterToPercentage': debe devolver un valor
+C:\Users\manue\Documents\Programming Languages\C++\GPA_Calculator\GPA_Calculator\GradeConvertor.cpp(77): error C4716: 'GradeConvertor::letterToGradePoint': debe devolver un valor
